@@ -1,0 +1,14 @@
+/home/alissonmds/dotnet/poo 1/obj/Debug/net9.0/poo 1.GeneratedMSBuildEditorConfig.editorconfig
+/home/alissonmds/dotnet/poo 1/obj/Debug/net9.0/poo 1.AssemblyInfoInputs.cache
+/home/alissonmds/dotnet/poo 1/obj/Debug/net9.0/poo 1.AssemblyInfo.cs
+/home/alissonmds/dotnet/poo 1/obj/Debug/net9.0/poo 1.csproj.CoreCompileInputs.cache
+/home/alissonmds/dotnet/poo 1/bin/Debug/net9.0/poo 1
+/home/alissonmds/dotnet/poo 1/bin/Debug/net9.0/poo 1.deps.json
+/home/alissonmds/dotnet/poo 1/bin/Debug/net9.0/poo 1.runtimeconfig.json
+/home/alissonmds/dotnet/poo 1/bin/Debug/net9.0/poo 1.dll
+/home/alissonmds/dotnet/poo 1/bin/Debug/net9.0/poo 1.pdb
+/home/alissonmds/dotnet/poo 1/obj/Debug/net9.0/poo 1.dll
+/home/alissonmds/dotnet/poo 1/obj/Debug/net9.0/refint/poo 1.dll
+/home/alissonmds/dotnet/poo 1/obj/Debug/net9.0/poo 1.pdb
+/home/alissonmds/dotnet/poo 1/obj/Debug/net9.0/poo 1.genruntimeconfig.cache
+/home/alissonmds/dotnet/poo 1/obj/Debug/net9.0/ref/poo 1.dll

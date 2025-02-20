@@ -1,0 +1,28 @@
+/home/alissonmds/dotnet/obj/Debug/net9.0/dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/alissonmds/dotnet/obj/Debug/net9.0/dotnet.AssemblyInfoInputs.cache
+/home/alissonmds/dotnet/obj/Debug/net9.0/dotnet.AssemblyInfo.cs
+/home/alissonmds/dotnet/obj/Debug/net9.0/dotnet.csproj.CoreCompileInputs.cache
+/home/alissonmds/dotnet/bin/Debug/net9.0/dotnet
+/home/alissonmds/dotnet/bin/Debug/net9.0/dotnet.deps.json
+/home/alissonmds/dotnet/bin/Debug/net9.0/dotnet.runtimeconfig.json
+/home/alissonmds/dotnet/bin/Debug/net9.0/dotnet.dll
+/home/alissonmds/dotnet/bin/Debug/net9.0/dotnet.pdb
+/home/alissonmds/dotnet/obj/Debug/net9.0/dotnet.dll
+/home/alissonmds/dotnet/obj/Debug/net9.0/refint/dotnet.dll
+/home/alissonmds/dotnet/obj/Debug/net9.0/dotnet.pdb
+/home/alissonmds/dotnet/obj/Debug/net9.0/dotnet.genruntimeconfig.cache
+/home/alissonmds/dotnet/obj/Debug/net9.0/ref/dotnet.dll
+/home/alissonmds/dotnet/basico 1/bin/Debug/net9.0/dotnet
+/home/alissonmds/dotnet/basico 1/bin/Debug/net9.0/dotnet.deps.json
+/home/alissonmds/dotnet/basico 1/bin/Debug/net9.0/dotnet.runtimeconfig.json
+/home/alissonmds/dotnet/basico 1/bin/Debug/net9.0/dotnet.dll
+/home/alissonmds/dotnet/basico 1/bin/Debug/net9.0/dotnet.pdb
+/home/alissonmds/dotnet/basico 1/obj/Debug/net9.0/dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/alissonmds/dotnet/basico 1/obj/Debug/net9.0/dotnet.AssemblyInfoInputs.cache
+/home/alissonmds/dotnet/basico 1/obj/Debug/net9.0/dotnet.AssemblyInfo.cs
+/home/alissonmds/dotnet/basico 1/obj/Debug/net9.0/dotnet.csproj.CoreCompileInputs.cache
+/home/alissonmds/dotnet/basico 1/obj/Debug/net9.0/dotnet.dll
+/home/alissonmds/dotnet/basico 1/obj/Debug/net9.0/refint/dotnet.dll
+/home/alissonmds/dotnet/basico 1/obj/Debug/net9.0/dotnet.pdb
+/home/alissonmds/dotnet/basico 1/obj/Debug/net9.0/dotnet.genruntimeconfig.cache
+/home/alissonmds/dotnet/basico 1/obj/Debug/net9.0/ref/dotnet.dll
