@@ -12,3 +12,4 @@
 /home/alissonmds/dotnet/ScreenSound-4/obj/Debug/net9.0/ScreenSound-4.pdb
 /home/alissonmds/dotnet/ScreenSound-4/obj/Debug/net9.0/ScreenSound-4.genruntimeconfig.cache
 /home/alissonmds/dotnet/ScreenSound-4/obj/Debug/net9.0/ref/ScreenSound-4.dll
+/home/alissonmds/dotnet/ScreenSound-4/obj/Debug/net9.0/ScreenSound-4.sourcelink.json
